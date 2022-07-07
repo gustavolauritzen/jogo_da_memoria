@@ -43,7 +43,7 @@ int main()
 
   case 1:
     system("CLS");
-    cout << "Seja bem vindo ao Jogo da Memoria, desenvolvido por Elena, Giueseppe, Matheus e Gustavo." << endl;
+    cout << "Seja bem vindo ao Jogo da Memoria, desenvolvido por Gustavo Baron Lauritzen." << endl;
     system("pause");
     system("CLS");
     cout << "Então, o jogo funciona da seguinte maneira..." << endl;
